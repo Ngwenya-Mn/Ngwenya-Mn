@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I'm a recent passionate Computer Science Graduate with a keen interest in FullStack & Software Development.
+I'm a recent passionate Computer Science Graduate with a keen interest in Web & Software Development.
 
-- 🔭 I’m currently working on Odin project and JavaScript30.
+- 🔭 I’m currently working on The Odin project and JavaScript30.
 - 🌱 I’m currently learning React and MongoDB.
 - 👯 I’m looking to collaborate on JS fullstack projects.
 - 📫 How to reach me: milithevet@outlook.com
@@ -34,7 +34,7 @@ I'm a recent passionate Computer Science Graduate with a keen interest in FullSt
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngwenya-Mn&show_icons=true&theme=radical)
 
 <!--## Recent Projects
 
