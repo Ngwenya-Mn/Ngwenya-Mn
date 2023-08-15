@@ -32,11 +32,11 @@ I'm a recent passionate Computer Science Graduate with a keen interest in Web & 
 - Databases: MongoDB.
 - Tools: Git & VS Code, 
 
-## GitHub Stats
+<!--## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ngwenya-Mn&show_icons=true&theme=radical)
 
-<!--## Recent Projects
+## Recent Projects
 
 ### [Project 1]
 
