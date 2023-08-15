@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Ngwenya-Mn
-- 👀 I’m interested in FullStack & Software Development
-- 🌱 I’m currently learning React and GraphQl
-- 💞️ I’m looking to collaborate on JS fullstack projects
-- 📫 How to reach me: milithevet@outlook.com
-
 <!--
 **Ngwenya-Mn/Ngwenya-Mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,35 +12,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hey there, I'm [Your Name] 👋
+# Hey there, I'm Milton Ngwenya 👋
 
 ## About Me
 
-I'm a passionate [Your Profession] with a keen interest in [Your Interests]. I love [Your Hobbies] and believe in the power of [Your Beliefs/Philosophy].
+I'm a recent passionate Computer Science Graduate with a keen interest in FullStack & Software Development.
 
-- 🔭 I’m currently working on [Current Project]
-- 🌱 I’m currently learning [Technologies/Subjects]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 💬 Ask me about [Your Expertise]
-- 📫 How to reach me: [Your Contact Information]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact about Yourself]
+- 🔭 I’m currently working on Odin project and JavaScript30.
+- 🌱 I’m currently learning React and MongoDB.
+- 👯 I’m looking to collaborate on JS fullstack projects.
+- 📫 How to reach me: milithevet@outlook.com
 
 ## My Tech Stack
 
 ![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-333333?style=flat&logo=[Logo]&logoColor=[LogoColor])
 
-- Programming Languages: [Languages]
-- Frameworks & Libraries: [Frameworks/Libraries]
-- Tools & Technologies: [Tools/Technologies]
-- Databases: [Databases]
-- Version Control: [Version Control]
+- Programming Languages: JavaScript & Java.
+- Frameworks & Libraries: React & Node.js
+- Databases: MongoDB.
+- Tools: Git & VS Code, 
 
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical)
 
-## Recent Projects
+<!--## Recent Projects
 
 ### [Project 1]
 
@@ -55,12 +45,10 @@ I'm a passionate [Your Profession] with a keen interest in [Your Interests]. I l
 ### [Project 2]
 
 [Project 2 Description]
-
+-->
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/[YourLinkedIn])
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/[YourTwitter])
-[![Portfolio](https://img.shields.io/badge/-Portfolio-yellow?style=flat)](https://www.yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/milton-ngwenya)
 
 Feel free to connect with me, I'm always excited to meet fellow developers and enthusiasts!
 
