@@ -1,4 +1,8 @@
-### Hi there 👋
+- 👋 Hi, I’m @Ngwenya-Mn
+- 👀 I’m interested in FullStack & Software Development
+- 🌱 I’m currently learning React and GraphQl
+- 💞️ I’m looking to collaborate on JS fullstack projects
+- 📫 How to reach me: milithevet@outlook.com
 
 <!--
 **Ngwenya-Mn/Ngwenya-Mn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
