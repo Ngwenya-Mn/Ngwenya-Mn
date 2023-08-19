@@ -48,7 +48,7 @@ I'm a recent passionate Computer Science Graduate with a keen interest in Web & 
 -->
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/milton-ngwenya)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-ngwenya/)
 
 Feel free to connect with me, I'm always excited to meet fellow developers and enthusiasts!
 
