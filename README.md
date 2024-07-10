@@ -27,9 +27,9 @@ I'm a recent passionate Computer Science Graduate with a keen interest in Web & 
 
 ![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-333333?style=flat&logo=[Logo]&logoColor=[LogoColor])
 
-- Programming Languages: JavaScript & Java.
-- Frameworks & Libraries: React & Node.js
-- Databases: MongoDB.
+- Programming Languages: Python,JavaScript & Java
+- Frameworks & Libraries: React,Node.js,Pandas,Numpy,Django & Django RESTFramework
+- Databases: MongoDB, MySQL,Postgress,BigQuery & NoSQL
 - Tools: Git & VS Code, 
 
 <!--## GitHub Stats
