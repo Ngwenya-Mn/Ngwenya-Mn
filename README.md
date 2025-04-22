@@ -12,25 +12,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 # Hey there, I'm Milton Ngwenya 👋
 
 ## About Me
 
-I'm a recent passionate Computer Science Graduate with a keen interest in Web & Software Development.
+I'm a passionate **Data Engineer** and **Software Engineer** with a background in Computer Science and a growing expertise in building modern data platforms and web applications.
 
-- 🔭 I’m currently working on The Odin project and JavaScript30.
-- 🌱 I’m currently learning React and MongoDB.
-- 👯 I’m looking to collaborate on JS fullstack projects.
-- 📫 How to reach me: milithevet@outlook.com
+- 🔭 I’m currently working on building **data pipelines** and dashboards using **Apache Superset**.
+- 🌱 I’m currently deepening my skills in **Airflow**, **Spark**, and **cloud data architecture**.
+- 👯 I’m looking to collaborate on data-centric fullstack projects or backend-heavy applications.
+- 📫 How to reach me: **milithevet@outlook.com**
 
 ## My Tech Stack
 
-![Tech Stack](https://img.shields.io/badge/-Tech%20Stack-333333?style=flat&logo=[Logo]&logoColor=[LogoColor])
-
-- Programming Languages: Python,JavaScript & Java
-- Frameworks & Libraries: React,Node.js,Pandas,Numpy,Django & Django RESTFramework
-- Databases: MongoDB, MySQL,Postgress,BigQuery & NoSQL
-- Tools: Git & VS Code, 
+- **Programming Languages**: Python, JavaScript, Java  
+- **Frameworks & Libraries**: React, Vue.js, Django, Django REST Framework, Pandas, NumPy, Apache Airflow, Apache Superset  
+- **Databases**: MongoDB, PostgreSQL, MySQL, Google BigQuery, NoSQL  
+- **Tools & Platforms**: Git, VS Code, Docker, Apache Superset, Airflow, Google Cloud Platform (GCP)
 
 <!--## GitHub Stats
 
@@ -46,10 +45,9 @@ I'm a recent passionate Computer Science Graduate with a keen interest in Web & 
 
 [Project 2 Description]
 -->
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-ngwenya/)
 
-Feel free to connect with me, I'm always excited to meet fellow developers and enthusiasts!
-
-
+I'm always open to connecting with fellow devs and data enthusiasts—feel free to reach out!
