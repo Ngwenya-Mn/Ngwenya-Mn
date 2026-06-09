@@ -22,7 +22,7 @@ I'm a passionate **Data Engineer** and **Software Engineer** with a background i
 - 🔭 I’m currently working on building **data pipelines** and dashboards using **Apache Superset**.
 - 🌱 I’m currently deepening my skills in **Airflow**, **Spark**, and **cloud data architecture**.
 - 👯 I’m looking to collaborate on data-centric fullstack projects or backend-heavy applications.
-- 📫 How to reach me: **milithevet@outlook.com**
+- 📫 How to reach me: **militongcobi@outlook.com**
 
 ## My Tech Stack
 
